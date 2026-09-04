@@ -16,11 +16,9 @@ The project is designed as a forecasting exercise rather than a causal analysis.
 
 The yield spread measures the difference between longer-term and shorter-term government-bond yields:
 
-\[
-\text{Yield spread}_t
-=
-\text{10-year yield}_t-\text{2-year yield}_t
-\]
+The yield spread is calculated as:
+
+> **Yield spread = 10-year gilt yield − 2-year gilt yield**
 
 A negative spread represents an inverted yield curve. Inversions may reflect restrictive monetary conditions, expectations of weaker economic growth and expectations of future interest-rate cuts.
 
